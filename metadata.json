@@ -1,0 +1,6 @@
+{
+  "name": "MenuQR - Restaurant Menu & Table Ordering",
+  "description": "Production-quality digital restaurant menu and table QR ordering system with live cart, order tracking, admin dashboard, and QR code generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
